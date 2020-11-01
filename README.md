@@ -1,0 +1,3 @@
+# MaquetacionWebPlatzi
+
+![](./index-home.png)
